@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container{
+    width:100%;
+    min-height: 100vh;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: hidden;
+
+}
+.navbar{
+    width: cover;
+    height: cover;
+    display:block;
+    align-items: center;
+}
+/* .bild{
+    width: 50px;
+    cursor: pointer;
+    margin: 30px 0;
+} */
